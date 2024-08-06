@@ -3,6 +3,8 @@ from django.http import HttpResponse
 from django.contrib.auth.models import User
 from django.contrib import messages
 from django.contrib.messages import constants
+from django.contrib import auth
+
 
 def cadastro(request):
     if request.method == "GET":
@@ -30,4 +32,18 @@ def cadastro(request):
             password=senha
         )
 
-        return redirect('usuarios/logar')
+        return redirect('/usuarios/logar')
+    
+def logar(request):
+    if request.method == "GET":
+        return render(request, 'logar.html')
+    elif request.method == "POST":
+        username = request.POST.get('username')
+        senha = request.POST.get('senha')
+
+        user = auth.authenticate(request, username=username, password=senha)
+        if user:
+            auth.login(request, user)
+            return redirect('/empresarios/cadastrar_empresa')
+        messages.add_message(request, constants.ERROR, 'Usuário ou senha inválidos.')
+        return redirect('/usuarios/logar')
