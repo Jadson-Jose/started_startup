@@ -14,10 +14,15 @@ Após o login, o usuário pode cadastrar sua empresa preenchendo informações e
 Nome da empresa
 
 Logotipo
+
 Tipo de mercado (B2C, B2B)
+
 Área de atuação
+
 Breve descrição da empresa
+
 Tempo de existência
+
 Valor de equity oferecido em troca de investimento.
 
 ![tela de cadastro](https://github.com/user-attachments/assets/dc3a4b21-3a30-4915-801f-7f0ad88cec0b)
