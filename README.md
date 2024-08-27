@@ -1,8 +1,10 @@
-<h1>START.SE</h1>
+START.SE
 
-É um projeto de um aplicativo de vendas de startups, onde o interessado em avaliar, negociar ou até mesmo vender a sua startup. 
-Ele cadastra a sua empresa através da tela de login, onde ele tem as opções de logar caso já tenha o seu cadastro se não
-ele pode fazer o seu cadastro.
+START.SE é um aplicativo voltado para vendas de startups. A plataforma permite que empreendedores e investidores possam avaliar, negociar e vender suas startups de forma prática e segura.
+
+Funcionalidades Principais
+1. Cadastro e Login de Usuário
+Os usuários podem se cadastrar e acessar suas contas através da tela de login. Aqueles que ainda não possuem uma conta podem se registrar preenchendo os campos necessários, como nome de usuário e senha.
 
 ![Tela de login do app STARTSE](https://github.com/user-attachments/assets/cab2b7a1-dba6-47d7-97fb-007439beb579)
 
