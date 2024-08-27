@@ -32,7 +32,8 @@ escolha de pitch, e logo da empresa e outros campos importantes com se a empresa
 ao valor investido em pocentagem.
 ![formulario de cadastro](https://github.com/user-attachments/assets/cd8508fb-b622-4267-9162-485131f8005b)
 
-Tela de sucesso de cadastro da empresa com uma mensagem personalizado em caso de erro tembém aparecerá uma mensagem, com os campos faltantes correspondentes.
+3. Sucesso e Validação do Cadastro
+Uma tela de confirmação será exibida após o cadastro bem-sucedido da empresa. Em caso de erro, uma mensagem informará quais campos precisam ser corrigidos.
 
 ![sucesso](https://github.com/user-attachments/assets/8e3f440d-9c5b-4c4f-b89f-2fe49662c821)
 
