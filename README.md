@@ -36,4 +36,6 @@ Valor de Investimento: Informe o valor máximo que deseja investir.
 
 ![sugestao](https://github.com/user-attachments/assets/e3e61696-787f-4a68-919c-eea51aeff70d)
 
+Já aqui temos uma tela onde podemos ver com detalhes uma empresa especpífica, podemos ver como está a andamento do investimento, os indicadores de CAC e caso desejar pode-se fazer uma proposta até chegar no valuation esperado pelos donos da empresa.
 
+![Captura de tela 2024-08-26 211931](https://github.com/user-attachments/assets/2f50cb72-df05-4ab0-825f-99a586984778)
