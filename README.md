@@ -37,22 +37,28 @@ Uma tela de confirmação será exibida após o cadastro bem-sucedido da empresa
 
 ![sucesso](https://github.com/user-attachments/assets/8e3f440d-9c5b-4c4f-b89f-2fe49662c821)
 
-Abaixo a tela com a lista de empresas e seu status se está no prazo de capitação caso o prezo esteja expirado, a capitação é finalizada 
+4. Lista de Empresas e Status de Captação
+O usuário pode visualizar uma lista de empresas cadastradas, junto com o status de captação. Caso o prazo de captação esteja expirado, o processo será finalizado. 
 
 ![lista de empresas](https://github.com/user-attachments/assets/25a2b8bc-9468-4332-82d4-b461a4279da1)
 
-Agora temos a tela onde o cadastrante da sua empresa tem acesso de como anda o precesso e o andamento do capital já captado foi atingido ou não de acordo com o seu valuation esperado, pela empresa.
+5. Acompanhamento do Processo de Captação
+Os cadastrantes podem acompanhar o progresso da captação de capital, verificando se a meta de valuation foi atingida.
 
 ![empresa](https://github.com/user-attachments/assets/89d0c68a-5e24-4fa7-98cf-05db48685f2e)
 
-Aqui temos a tela de Receba sugestões de empresas
-Vamos analisar seu perfil e indicar as melhores opções de investimentos com os campos 
-Tipo de Investidor: Selecione entre conservador (menos risco, menor retorno) ou despojado (mais risco, maior retorno).
-Áreas de Interesse: Escolha as áreas de mercado nas quais deseja investir.
-Valor de Investimento: Informe o valor máximo que deseja investir.
+6. Sugestões de Empresas para Investimento
+Com base no perfil do investidor, a plataforma sugere as melhores opções de investimento. Os campos incluem:
+
+Tipo de Investidor (Conservador ou Despojado)
+
+Áreas de Interesse
+
+Valor máximo de Investimento
 
 ![sugestao](https://github.com/user-attachments/assets/e3e61696-787f-4a68-919c-eea51aeff70d)
 
-Já aqui temos uma tela onde podemos ver com detalhes uma empresa especpífica, podemos ver como está a andamento do investimento, os indicadores de CAC e caso desejar pode-se fazer uma proposta até chegar no valuation esperado pelos donos da empresa.
+7. Detalhamento de Empresas
+Os investidores podem acessar detalhes específicos de uma empresa, acompanhar indicadores como CAC e fazer propostas de acordo com o valuation desejado.
 
 ![Captura de tela 2024-08-26 211931](https://github.com/user-attachments/assets/2f50cb72-df05-4ab0-825f-99a586984778)
