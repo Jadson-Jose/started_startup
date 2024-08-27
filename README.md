@@ -8,8 +8,16 @@ Os usuários podem se cadastrar e acessar suas contas através da tela de login.
 
 ![Tela de login do app STARTSE](https://github.com/user-attachments/assets/cab2b7a1-dba6-47d7-97fb-007439beb579)
 
-Caso ele não possua, eles pode se cadastar na tele abaixo preechendo os campos como nome de usuário, senha e confirmar a 
-senha.
+2. Cadastro de Empresa
+Após o login, o usuário pode cadastrar sua empresa preenchendo informações essenciais, como:
+
+Nome da empresa
+Logotipo
+Tipo de mercado (B2C, B2B)
+Área de atuação
+Breve descrição da empresa
+Tempo de existência
+Valor de equity oferecido em troca de investimento.
 
 ![tela de cadastro](https://github.com/user-attachments/assets/dc3a4b21-3a30-4915-801f-7f0ad88cec0b)
 
