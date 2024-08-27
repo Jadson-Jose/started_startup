@@ -12,6 +12,7 @@ Os usuários podem se cadastrar e acessar suas contas através da tela de login.
 Após o login, o usuário pode cadastrar sua empresa preenchendo informações essenciais, como:
 
 Nome da empresa
+
 Logotipo
 Tipo de mercado (B2C, B2B)
 Área de atuação
